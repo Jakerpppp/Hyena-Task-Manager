@@ -8,6 +8,8 @@ The members of the team are:
 - Emre Ozbek
 - Raj Mohammad
 
+- Made in 6 Weeks from November 2023 to December 2023
+
 ## Project structure
 The project is called `task_manager`.  It currently consists of a single app `tasks`.
 
