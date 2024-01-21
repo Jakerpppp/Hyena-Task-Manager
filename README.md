@@ -1,4 +1,5 @@
 # Team Hyena Small Group project
+- Made in 6 Weeks from November 2023 to December 2023
 
 ## Team members
 The members of the team are:
@@ -7,8 +8,6 @@ The members of the team are:
 - Carlos De la Puente
 - Emre Ozbek
 - Raj Mohammad
-
-- Made in 6 Weeks from November 2023 to December 2023
 
 ## Project structure
 The project is called `task_manager`.  It currently consists of a single app `tasks`.
